@@ -12,7 +12,7 @@ The aim of the project is to enable the HSR to complet basic domestic interactio
 
 
 The entire project is achieved using ROS Kinetic/Melodic. The following packages are implemented using Python, SMACH, YOLO, Gooogle API , Espeak and HSR tools.
-
+See our report "HSR_Domestic Interaction Report" in this Github
 
 <p align="center">
 <img src="https://github.com/sma20/HSR/blob/master/image/hsr-photo1-full.jpg " width="400" >
